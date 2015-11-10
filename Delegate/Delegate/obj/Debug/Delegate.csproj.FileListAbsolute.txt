@@ -1,0 +1,6 @@
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\work_with_delegate\Delegate\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\work_with_delegate\Delegate\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\work_with_delegate\Delegate\Delegate\bin\Debug\Delegate.exe
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\work_with_delegate\Delegate\Delegate\bin\Debug\Delegate.pdb
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\work_with_delegate\Delegate\Delegate\obj\Debug\Delegate.exe
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\work_with_delegate\Delegate\Delegate\obj\Debug\Delegate.pdb
